@@ -3,4 +3,4 @@
 
 This is my code for freeCodeCamp Node JS challenge
 The app is deployed here:
-https://repl.it/@FadhilM/nodejs-timestamp-service/
+https://nodejs-timestamp-service.fadhilm.repl.co
